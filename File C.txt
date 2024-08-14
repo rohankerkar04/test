@@ -1,1 +1,2 @@
 File C added.
+checking for merge conflict.
