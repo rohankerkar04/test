@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 File D added 
 Forcing a conflict here.
+=======
+File D added .
+Forcing conflict from Dev.
+>>>>>>> dev
